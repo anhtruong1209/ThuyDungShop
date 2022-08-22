@@ -1,1 +1,2 @@
 # ThuyDungShop
+Django Ecommerce Shop
